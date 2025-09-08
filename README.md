@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Circular Floating Image -->
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" 
+  <img src="Profile Imaeg.jpg" 
        alt="Profile Picture" 
        width="180" 
        style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.25);" />
@@ -25,7 +25,7 @@
 
 ## 🎓 About Me
 
-- 🎓 **Bachelor of Technology** - Computer Science and Engineering at **Lovely Professional University** (CGPA: 7.65)
+- 🎓 **Bachelor of Technology** - Computer Science and Engineering at **Lovely Professional University**
 - 🌱 Currently learning **Machine Learning**, **Deep Learning**, and **Data Analytics**
 - 💻 Passionate about **Data Science**, **Computer Vision**, and **Web Development**
 - 🏆 **Silver Medalist** in school competitions and former **School Co-Ordinator**
