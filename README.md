@@ -65,17 +65,19 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 Classification Of Images Using Transfer Learning
-- **Improved model accuracy by 10%** using advanced Transfer Learning techniques
-- Applied feature extraction, fine-tuning, and data augmentation
-- Evaluated performance using Confusion Matrix, Precision, Recall, and F1-Score
-- **Tech Stack:** Python, TensorFlow, Matplotlib, NumPy
+## 🎧 Spotify Dashboard Analysis | Power BI
 
-### 🌍 Beijing Multi-Site Air Quality Index Analysis
-- Analyzed environmental data using **Python**, **Pandas**, and **NumPy**
-- Built predictive models with **Linear Regression** and **Random Forest**
-- Performed time-series analysis and feature engineering
-- Gained expertise in environmental data analytics and forecasting
+- Developed an interactive **Spotify analytics dashboard** using **Power BI** to analyze music trends and popularity patterns  
+- Analyzed **789+ songs** from **342 artists**, tracking key metrics such as popularity, duration, and release trends  
+- Designed **KPI metrics** including total songs, total artists, average popularity, and average track duration  
+- Performed **time-based analysis** to identify monthly and yearly trends in song releases and popularity  
+- Compared **album vs single performance**, highlighting differences in average popularity  
+- Identified **top-performing artists and songs** using popularity-based rankings  
+- Analyzed **explicit vs non-explicit** content distribution across the dataset  
+- Implemented **DAX measures** for dynamic calculations and interactive insights  
+- Applied **data cleaning and data modeling techniques** to ensure accurate reporting  
+- Delivered insights through a **clean, Spotify-inspired dashboard UI**
+
 
 ### 🏠 Online Real Estate Website
 - Developed a dynamic web platform for property listings
