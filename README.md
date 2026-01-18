@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Circular Floating Image -->
-  <img src="passportsize.jpg" 
+  <img src="Profile Imaeg.jpg" 
        alt="Profile Picture" 
        width="180" 
        style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.25);" />
